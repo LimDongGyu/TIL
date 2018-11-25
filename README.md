@@ -8,6 +8,5 @@ Hello!
 * html
 
 
-## 20181126
-* class
-* function
+## 20181125
+* list
