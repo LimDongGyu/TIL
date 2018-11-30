@@ -1,12 +1,8 @@
 # today I learned
 
-## 20181125
-Hello!
 
-* python
-* css3
-* html
-
-
-## 20181125
-* list
+## 20181130
+* Due : 20181205
+  - smart network exam
+* Due : 20181206
+  - C# term project presentation
